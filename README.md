@@ -12,4 +12,4 @@ I have some experience with programming in Java, C, and Python. With Java, I pro
 
 I also have some experience with using GitHub and Unix on the macOS terminal.
 
-![meme of me asking if I can go use the bathroom, but when the teacher says it is may, I say no it is January.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fmeme%2Fcomments%2Ffcaurn%2Fah_yes_low_quality_stupid_memes_just_the_way_i%2F&psig=AOvVaw09PcNkz-dQl0e0uhy_Cjk4&ust=1695850512852000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKjftM2dyYEDFQAAAAAdAAAAABAJ)  
+![MEME](https://i.redd.it/5q5l221ay8k41.jpg)
