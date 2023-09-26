@@ -10,4 +10,6 @@
 
 I have some experience with programming in Java, C, and Python. With Java, I programmed a chess game that implements a GUI, and I also used object oriented programming concepts to write code for the game as well. In C, I programmed Conway's Game of Life by using a struct, pointers, and memory allocation. I took a coding and programming in Python class in highschool and wrote code for several simple projects.
 
-I also have some experience with using GitHub and Unix on the macOS terminal.  
+I also have some experience with using GitHub and Unix on the macOS terminal.
+
+![meme of me asking if I can go use the bathroom, but when the teacher says it is may, I say no it is January.](IMG_0754.jpeg)  
