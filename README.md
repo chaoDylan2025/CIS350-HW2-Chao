@@ -12,4 +12,4 @@ I have some experience with programming in Java, C, and Python. With Java, I pro
 
 I also have some experience with using GitHub and Unix on the macOS terminal.
 
-![meme of me asking if I can go use the bathroom, but when the teacher says it is may, I say no it is January.](../../../../IMG_0754.jpeg)  
+![meme of me asking if I can go use the bathroom, but when the teacher says it is may, I say no it is January.](../../../../assets/images/IMG_0754.jpeg)  
