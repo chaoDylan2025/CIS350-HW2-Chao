@@ -1,4 +1,4 @@
-### CIS350-HW2-Chao
+# CIS350-HW2-Chao
 
 ## Dylan Chao
 
